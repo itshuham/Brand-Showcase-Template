@@ -1,4 +1,4 @@
-# Project Title
+# Brand Showcase Template
 
 Brand Showcase Template using HTML5, CSS3, Bootstrap4.
 
@@ -44,7 +44,7 @@ You can deploy this template to any of your frontend project
 * [CSS3](https://www.tutorialspoint.com/css/css3_tutorial.htm) - CSS3
 
 ## Project Screenshot
-![Template Screenshot](https://drive.google.com/open?id=1SlhBY3jsPuKqNJaUSMoDdgSkpPGqm49M)
+![Template Screenshot](brandshowcase.png)
 
 
 ## Authors
